@@ -1,7 +1,7 @@
 # Chun Hang Chan's Introduction
 I go by Harry for my name and I am currently a third-year Computer Science major at John Muir College. 
 
-Click these if you want to navigate to different sections of my introduction!
+*Click these if you want to navigate to different sections of my introduction!*
 
 [As a programmer](#as-a-programmer)
 
